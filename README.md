@@ -6,7 +6,7 @@ Built by **Jazii & Hamed** as a school mini-project on Bluetooth interference.
 
 ## Demo
 
-▶️ **Watch the demo:** [REEMPLAZAR CON EL ENLACE DEL VIDEO]
+▶️ **Watch the demo:** 
 
 ## Features
 
